@@ -1,6 +1,6 @@
--avocados
+-2 avocados
 -salt
--lime
--onion
--jalapeno
--cilantro
+-1 lime
+-1 onion
+-1 jalapeno
+-bunch cilantro
